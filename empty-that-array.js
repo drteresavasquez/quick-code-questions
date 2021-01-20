@@ -2,7 +2,10 @@
 let array = ['Start Doing', 'Continue Doing', 'Stop Doing'];
 // I like it just fine, but there is a time in my code that I need to empty that array out and start over again. Can anyone tell me how I could empty an array?
 
-array = [];
+// array = [];
+// array.length = 0;
+// array.splice(0,array.length);
+
 console.log(array);
 
 // Last one...So, ___ helped me figure out how to empty my array. Now, someone else tell me if I do this, what value will be console logged?
